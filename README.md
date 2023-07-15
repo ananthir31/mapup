@@ -1,6 +1,4 @@
 # mapup
-In the README file, you should include information about your API and provide instructions on how to use and test it. Here's a suggested structure for your README file:
-
 # Intersections API
 
 The Intersections API is a mapping-based application developed in GoLang/Express-NodeJS. It allows you to find intersecting lines between a long linestring and a set of randomly spread lines on a plane.
